@@ -30,7 +30,7 @@ function gotPoses(results) {
 
 function draw() {
     background('#f08800');
-    fill();
+    fill('red');
     textSize(difference);
     text('Yohaan',50,400);
 }
